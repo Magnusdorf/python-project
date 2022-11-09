@@ -1,3 +1,4 @@
 Bu dosyaya girdim.
 Bazi degisiklikler yaptim.
 Sonra ciktim.
+bir line daha ekledim.
